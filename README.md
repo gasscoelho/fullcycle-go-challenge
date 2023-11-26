@@ -69,10 +69,10 @@ This command runs the container and outputs "`FullCycle rocks!!`" to the termina
 
 ## Production Image on Docker Hub
 
-The production-ready version of this application's Docker image is available on Docker Hub for public use.
+The production-ready version of this application's Docker image is available on [Docker Hub](https://hub.docker.com/r/gasscoelho/fullcycle).
 
 ```bash
-docker pull gasscoelho/fullcycle-prod
+docker pull gasscoelho/fullcycle
 ```
 
 This command will download the latest version of the production image to the local machine.
